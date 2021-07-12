@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    background-color:white;
+}
+h1{
+color: mediumpurple;
+font-family: sans-serif;
+font-size: 33px;
+}
+h3{
+ color:mediumpurple;
+ font-family:sans-serif;
+}
+#Quote{
+    height:400px;
+}
+#SHOW{
+    height:400px;
+}
+#MOVIE{
+    height:400px;
+}
+#BROWSER{
+    height:300px;
+}
+
+
